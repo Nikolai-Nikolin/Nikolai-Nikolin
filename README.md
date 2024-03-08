@@ -3,6 +3,7 @@
     - Python🐍
     - Flask📯
     - PostgreSQL🗃️
+    - sqlAlchemy🐘
     - RESTapi☁
     - JavaScript📙
     - React ⚛️ 
