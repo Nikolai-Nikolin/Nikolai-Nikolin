@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Nikolai Nikolin
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning:
     - Python🐍
-    - PostgreSQL 🗃️
+    - Flask📯
+    - PostgreSQL🗃️
+    - RESTapi☁
     - JavaScript📙
     - React ⚛️ 
 
